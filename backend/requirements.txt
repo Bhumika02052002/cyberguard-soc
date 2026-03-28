@@ -9,3 +9,4 @@ reportlab==4.0.4
 faker==19.3.0
 gunicorn
 setuptools
+wheel
